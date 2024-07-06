@@ -1,0 +1,10 @@
+
+2^m equivalent à 1<<m
+
+grep -ri MAX_INT --include='*.c' ~
+
+shellcheck
+valgrind
+indent -kr toto.c
+
+make -n

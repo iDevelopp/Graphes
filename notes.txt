@@ -1,0 +1,5 @@
+#commande pour recherche un bout de code
+grep -ri MAX_INT --include='*.c' ~
+
+#rappel 2^m eq 1<<m
+
